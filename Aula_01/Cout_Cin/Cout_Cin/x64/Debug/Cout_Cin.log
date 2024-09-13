@@ -1,0 +1,1483 @@
+﻿     0>Reatribuição de propriedade: $(MSBuildExtensionsPath)="C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild" (valor anterior: "C:\Program Files (x86)\MSBuild") em 
+       Reatribuição de propriedade: $(MSBuildExtensionsPath32)="C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild" (valor anterior: "C:\Program Files (x86)\MSBuild") em 
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentando importar C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.props usando o caminho das extensões C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild
+       Reatribuição de propriedade: $(MSBuildProjectExtensionsPath)="C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\obj\" (valor anterior: "obj\") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Microsoft.Common.props (60,5)
+       Imóvel 'MSBuildUserExtensionsPath' com valor 'C:\Users\Usuario\AppData\Local\Microsoft\MSBuild' expandido do ambiente.
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentando importar C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Imports\Microsoft.Common.props\ImportBefore\* usando o caminho das extensões C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild
+       Imóvel 'VisualStudioVersion' com valor '17.0' expandido do ambiente.
+       A propriedade "Configuration" é global e não pode ser modificada.
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       A propriedade "Configuration" é global e não pode ser modificada.
+       A propriedade "LangID" é global e não pode ser modificada.
+       A propriedade "SolutionDir" é global e não pode ser modificada.
+       Imóvel 'LOCALAPPDATA' com valor 'C:\Users\Usuario\AppData\Local' expandido do ambiente.
+       Reatribuição de propriedade: $(UseDebugLibraries)="true" (valor anterior: "false") em C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj (44,5)
+       Reatribuição de propriedade: $(CharacterSet)="Unicode" (valor anterior: "NotSet") em C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj (46,5)
+       Imóvel 'PROCESSOR_ARCHITECTURE' com valor 'AMD64' expandido do ambiente.
+       Reatribuição de propriedade: $(WindowsSdkDir_10)="C:\Program Files (x86)\Windows Kits\10\" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (18,5)
+       Reatribuição de propriedade: $(NETFXSDK_Version)="4.8" (valor anterior: "4.8.1") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (46,5)
+       Reatribuição de propriedade: $(NETFXSDK_Version)="4.7.3" (valor anterior: "4.8") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (56,5)
+       Reatribuição de propriedade: $(NETFXSDK_Version)="4.7.2" (valor anterior: "4.7.3") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (66,5)
+       Reatribuição de propriedade: $(NETFXSDK_Version)="4.7.1" (valor anterior: "4.7.2") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (76,5)
+       Reatribuição de propriedade: $(NETFXSDK_Version)="4.6.2" (valor anterior: "4.7.1") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (86,5)
+       Reatribuição de propriedade: $(NETFXSDK_Version)="4.6.1" (valor anterior: "4.6.2") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.props (96,5)
+       Reatribuição de propriedade: $(TargetExt)=".exe" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (28,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (88,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (89,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (90,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (91,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (92,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (93,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (94,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (95,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (96,5)
+       Reatribuição de propriedade: $(VC_ExecutablePath_Loc)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;;;;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostArm64\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\arm\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\1046;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x86\1046;;;;;;;;;;;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (97,5)
+       Reatribuição de propriedade: $(MSBuild_ExecutablePath)="C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (124,5)
+       Imóvel 'COMPUTERNAME' com valor 'DESKTOP-VQKVIPB' expandido do ambiente.
+       Reatribuição de propriedade: $(RemoteDebuggerDeployDebugCppRuntime)="true" (valor anterior: "false") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (153,5)
+       Reatribuição de propriedade: $(MultiProcMaxCount)="0" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Common.props (214,5)
+       Reatribuição de propriedade: $(EspXtensions)="EnumIndex.dll;CppCoreCheck.dll;" (valor anterior: "CppCoreCheck.dll;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (21,5)
+       Reatribuição de propriedade: $(EspXtensions)="HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (valor anterior: "EnumIndex.dll;CppCoreCheck.dll;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (24,5)
+       Reatribuição de propriedade: $(EspXtensions)="VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (valor anterior: "HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (27,5)
+       Reatribuição de propriedade: $(ConcurrencyCheckPath)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\ConcurrencyCheck.dll" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX86\x86\ConcurrencyCheck.dll") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (31,5)
+       Reatribuição de propriedade: $(EspXtensions)="ConcurrencyCheck.dll;VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;" (valor anterior: "VariantClear.dll;HResultCheck.dll;EnumIndex.dll;CppCoreCheck.dll;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CodeAnalysis.Extensions.props (34,5)
+       Reatribuição de propriedade: $(_PropertySheetDisplayName)="Unicode Support" (valor anterior: "Core Windows Libraries") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.unicodesupport.props (15,5)
+       Reatribuição de propriedade: $(_PropertySheetDisplayName)="Application" (valor anterior: "Unicode Support") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Application.props (15,5)
+       Imóvel 'Path' com valor 'C:\Program Files\Eclipse Adoptium\jdk-11.0.23.9-hotspot\bin;C:\Program Files\Java\jdk-22\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\wxwidgets\lib\vc14x_x64_dll;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Usuario\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Usuario\AppData\Local\Programs\Python\Python311\;C:\Users\Usuario\AppData\Local\Microsoft\WindowsApps;C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin' expandido do ambiente.
+       Imóvel 'SystemRoot' com valor 'C:\Windows' expandido do ambiente.
+       A propriedade "SolutionExt" é global e não pode ser modificada.
+       Reatribuição de propriedade: $(ExtensionsToDeleteOnClean)="*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe.manifest;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.tlb;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.pdb;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.bsc;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.ilk;C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe.intermediate.manifest;x64\Debug\Cout_Cin.vcxproj.FileListAbsolute.txt" (valor anterior: "*.cdf;*.cache;*.obj;*.obj.enc;*.ilk;*.ipdb;*.iobj;*.resources;*.tlb;*.tli;*.tlh;*.tmp;*.rsp;*.pgc;*.pgd;*.meta;*.tlog;*.manifest;*.res;*.pch;*.exp;*.idb;*.rep;*.xdc;*.pdb;*_manifest.rc;*.bsc;*.sbr;*.xml;*.metagen;*.bi") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (40,5)
+       Reatribuição de propriedade: $(DebugType)="none" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (32,5)
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       A propriedade "Configuration" é global e não pode ser modificada.
+       Reatribuição de propriedade: $(_DocumentationFileProduced)="false" (valor anterior: "true") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (185,5)
+       A propriedade "DevEnvDir" é global e não pode ser modificada.
+       A propriedade "SolutionName" é global e não pode ser modificada.
+       A propriedade "SolutionFileName" é global e não pode ser modificada.
+       A propriedade "SolutionPath" é global e não pode ser modificada.
+       A propriedade "SolutionDir" é global e não pode ser modificada.
+       A propriedade "SolutionExt" é global e não pode ser modificada.
+       Reatribuição de propriedade: $(AutoUnifyAssemblyReferences)="false" (valor anterior: "true") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (369,5)
+       Reatribuição de propriedade: $(MSBuildCopyMarkerName)="Cout_Cin.vcxproj.Up2Date" (valor anterior: "Cout_Cin.vcxproj") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (393,5)
+       Reatribuição de propriedade: $(ProcessorArchitecture)="amd64" (valor anterior: "x64") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (528,5)
+       Imóvel 'MSBuildExtensionsPath64' com valor 'C:\Program Files\MSBuild' expandido do ambiente.
+       Reatribuição de propriedade: $(DelaySign)="" (valor anterior: "false") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (580,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;" (valor anterior: "{CandidateAssemblyFiles}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (649,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem}" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (650,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (651,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (652,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (653,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (654,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (655,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (656,5)
+       Reatribuição de propriedade: $(AssemblySearchPaths)="{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName};C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\" (valor anterior: "{CandidateAssemblyFiles};C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;{HintPathFromItem};{TargetFrameworkDirectory};{AssemblyFoldersFromConfig:C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\AssemblyFolders.config,};;{Registry:Software\Microsoft\,,AssemblyFoldersEx};{AssemblyFolders};{GAC};{RawFileName}") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (657,5)
+       Reatribuição de propriedade: $(_SGenGenerateSerializationAssembliesConfig)="Auto" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (3896,5)
+       Reatribuição de propriedade: $(_SGenGenerateSerializationAssembliesConfig)="Off" (valor anterior: "Auto") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (3897,5)
+       Reatribuição de propriedade: $(_TargetsThatPrepareProjectReferences)="
+             AssignProjectConfiguration;
+             _SplitProjectReferencesByFileExistence
+           " (valor anterior: "_SplitProjectReferencesByFileExistence") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets (5099,5)
+       Reatribuição de propriedade: $(_CodeAnalysisTreatWarningsAsErrors)="false" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (125,5)
+       Reatribuição de propriedade: $(CAExcludePath)="C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;" (valor anterior: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (235,5)
+       Reatribuição de propriedade: $(CAExcludePath)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;" (valor anterior: "C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (236,5)
+       Reatribuição de propriedade: $(CAExcludePath)="C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;" (valor anterior: "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (237,5)
+       Reatribuição de propriedade: $(PrepareForBuildDependsOn)=";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (valor anterior: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets (240,5)
+       Reatribuição de propriedade: $(PrepareResourcesDependsOn)="
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           " (valor anterior: "
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+           ") em C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets (35,5)
+       Reatribuição de propriedade: $(ResolveReferencesDependsOn)="
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             GenerateBindingRedirectsUpdateAppConfig;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           " (valor anterior: "
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             GenerateBindingRedirectsUpdateAppConfig;
+             ResolveComReferences;
+             AfterResolveReferences
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\TeamTest\Microsoft.TeamTest.targets (4,5)
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentando importar C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\$(MSBuildToolsVersion)\Microsoft.Common.targets\ImportAfter\* usando o caminho das extensões C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild
+       Reatribuição de propriedade: $(ProjectLockFile)="obj\project.assets.json" (valor anterior: "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\obj\project.assets.json") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (74,5)
+       Reatribuição de propriedade: $(ResolveAssemblyReferencesDependsOn)="
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (valor anterior: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (185,5)
+       Reatribuição de propriedade: $(PrepareResourcesDependsOn)="ResolveNuGetPackageAssets;
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           " (valor anterior: "
+             XamlMarkupCompilePass1;
+             XamlMarkupCompilePass2;
+             
+             ;
+             PrepareResourceNames;
+             ResGen;
+             CompileLicxFiles
+            
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\NuGet\17.0\Microsoft.NuGet.targets (186,5)
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Os caminhos de pesquisa usados para $(MSBuildExtensionsPath) são C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild;$(MSBuildProgramFiles32)\MSBuild
+       Tentando importar C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\WebTools.Aspire\Microsoft.WebTools.Aspire.targets usando o caminho das extensões C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild
+       Reatribuição de propriedade: $(JsonSchemaCombinedFilePath)="C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\x64\Debug\CombinedComponentSchema.json" (valor anterior: "x64\Debug\\CombinedComponentSchema.json") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\WebTools.Aspire\Microsoft.WebTools.Aspire.targets (25,5)
+       Reatribuição de propriedade: $(AppSettingsJsonSchemaCombinedFilePath)="C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\x64\Debug\AppSettingsSchema.json" (valor anterior: "x64\Debug\\AppSettingsSchema.json") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\WebTools.Aspire\Microsoft.WebTools.Aspire.targets (27,5)
+       Reatribuição de propriedade: $(DebugType)="" (valor anterior: "none") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (39,5)
+       Reatribuição de propriedade: $(BuildDependsOn)="
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             TlogCleanup;
+             FinalizeBuildStatus;
+           " (valor anterior: "
+             BeforeBuild;
+             CoreBuild;
+             AfterBuild
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (122,5)
+       Reatribuição de propriedade: $(RebuildDependsOn)="
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (valor anterior: "
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (131,5)
+       Reatribuição de propriedade: $(CleanDependsOn)="
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           " (valor anterior: "
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets (136,5)
+       Reatribuição de propriedade: $(BeforeBuildGenerateSourcesTargets)="
+             
+             ;
+             BeforeBuildGenerateSources;
+           ;
+           " (valor anterior: "
+             ;
+             BeforeBuildGenerateSources;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (60,5)
+       Reatribuição de propriedade: $(AfterBuildGenerateSourcesTargets)="
+             
+             ;
+             AfterBuildGenerateSources;
+           ;
+             AfterBuildGenerateSourcesEvent;
+           " (valor anterior: "
+             ;
+             AfterBuildGenerateSources;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (71,5)
+       Reatribuição de propriedade: $(BuildGenerateSourcesAction)="_BuildGenerateSourcesAction" (valor anterior: "Build") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (140,5)
+       Reatribuição de propriedade: $(BuildCompileAction)="_BuildCompileAction" (valor anterior: "Build") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (141,5)
+       Reatribuição de propriedade: $(BuildLinkAction)="_BuildLinkAction" (valor anterior: "Build") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (142,5)
+       Reatribuição de propriedade: $(DetermineProjectTypeTargets)="_PrepareForReferenceResolution;
+             ;
+             AddExternalIncludDirectoriesToPaths
+           " (valor anterior: "
+             ;
+             AddExternalIncludDirectoriesToPaths
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (249,5)
+       Reatribuição de propriedade: $(ResolveReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             GenerateBindingRedirectsUpdateAppConfig;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           " (valor anterior: "
+             
+             BeforeResolveReferences;
+             AssignProjectConfiguration;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             ResolveNativeReferences;
+             ResolveAssemblyReferences;
+             GenerateBindingRedirects;
+             GenerateBindingRedirectsUpdateAppConfig;
+             ResolveComReferences;
+             AfterResolveReferences
+           ;
+             ResolveTestReferences
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (311,5)
+       Reatribuição de propriedade: $(ResolveAssemblyReferencesDependsOn)="_PrepareForReferenceResolution;
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets" (valor anterior: "
+             ResolveProjectReferences;
+             FindInvalidProjectReferences;
+             GetFrameworkPaths;
+             GetReferenceAssemblyPaths;
+             PrepareForBuild;
+             ResolveSDKReferences;
+             ExpandSDKReferences;
+           ;ResolveNuGetPackageAssets") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (312,5)
+       Reatribuição de propriedade: $(ResolveSDKReferencesDependsOn)="_PrepareForReferenceResolution;ComputeCrtSDKReference;
+             GetInstalledSDKLocations
+           " (valor anterior: "
+             GetInstalledSDKLocations
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (313,5)
+       Reatribuição de propriedade: $(ComputeCompileInputsTargets)="
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           " (valor anterior: "
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (639,5)
+       Reatribuição de propriedade: $(ComputeLinkInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           " (valor anterior: "
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (952,5)
+       Reatribuição de propriedade: $(GetTargetPathDependsOn)="_PrepareForReferenceResolution;GetResolvedWinMD;" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1123,5)
+       Reatribuição de propriedade: $(ComputeCompileInputsTargets)="
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           " (valor anterior: "
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1149,5)
+       Reatribuição de propriedade: $(ComputeLinkInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (valor anterior: "
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1201,5)
+       Reatribuição de propriedade: $(ComputeLibInputsTargets)="
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (valor anterior: "
+             ;
+             ComputeRCGeneratedLibInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1208,5)
+       Reatribuição de propriedade: $(ComputeImpLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           " (valor anterior: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1215,5)
+       Reatribuição de propriedade: $(ComputeLinkInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           " (valor anterior: "
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1276,5)
+       Reatribuição de propriedade: $(ComputeLibInputsTargets)="
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           " (valor anterior: "
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1291,5)
+       Reatribuição de propriedade: $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           " (valor anterior: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1306,5)
+       Reatribuição de propriedade: $(ComputeLinkInputsTargets)="
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           " (valor anterior: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1337,5)
+       Reatribuição de propriedade: $(ComputeLibInputsTargets)="
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           " (valor anterior: "
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1355,5)
+       Reatribuição de propriedade: $(ComputeImpLibInputsTargets)="
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ;
+             ComputeImpLibInputsFromProject;
+           " (valor anterior: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeRCGeneratedImpLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedImpLibInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1373,5)
+       Reatribuição de propriedade: $(ComputeLinkInputsTargets)="
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ;
+             ComputeReferenceLinkInputs;
+           " (valor anterior: "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLinkInputs;
+           ;
+             ComputeManifestGeneratedLinkerInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLinkInputs;
+           ;
+             ComputeLinkInputsFromProject;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1497,5)
+       Reatribuição de propriedade: $(ComputeLibInputsTargets)="
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           " (valor anterior: "
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1535,5)
+       Reatribuição de propriedade: $(ComputeLibInputsTargets)="
+             ComputeLibAdditionalOptions;
+             
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           
+           " (valor anterior: "
+             
+             
+             
+             
+             ;
+             ComputeRCGeneratedLibInputs;
+           ;
+             ComputeCustomBuildOutput;
+           ;
+             ComputeCLGeneratedLibInputs;
+           ;
+             ComputeLibInputsFromProject;
+           ;
+             ComputeReferenceLibInputs;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1592,5)
+       Reatribuição de propriedade: $(GetProjectInfoForReferenceDependsOn)="
+             
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ;
+             AddPublicBMIsToProjectsInfoForReference;
+             AddDeployRecipeFileToProjectsInfoForReference;
+             AddLibrariesToProjectsInfoForReference;
+           " (valor anterior: "
+             ;
+             AddPublicIncludeDirectoriesToProjectsInfoForReference;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (1780,5)
+       Reatribuição de propriedade: $(DocumentationProjectOutputGroupDependsOn)="ResolvedXDCMake;ComputeCLCompileGeneratedXDCFiles" (valor anterior: "") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (2180,5)
+       Reatribuição de propriedade: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc" (valor anterior: "PrepareForBuild;AssignTargetPaths") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets (2246,5)
+       Reatribuição de propriedade: $(ComputeCompileInputsTargets)="
+             
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ;
+             ;
+             ComputeStdModulesCompileInputs;
+             FixupCLCompileOptions;
+             SetModuleDependencies;
+           " (valor anterior: "
+             
+             
+             ;
+             GenerateTargetFrameworkMonikerAttribute;
+           ;
+             ComputeMIDLGeneratedCompileInputs;
+           ;
+             ComputeCLInputPDBName;
+             ComputeReferenceCLInput;
+             WarnCompileDuplicatedFilename
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (315,5)
+       Reatribuição de propriedade: $(BuildingProject)="true" (valor anterior: "false") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (2075,5)
+       Reatribuição de propriedade: $(ContentFilesProjectOutputGroupDependsOn)="PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc;_CreateCopyFileItems;" (valor anterior: "PrepareForBuild;AssignTargetPaths;PrepareForBuild;AssignTargetPaths;MakeDirsForFxc") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets (2621,5)
+       Reatribuição de propriedade: $(PrepareForBuildDependsOn)="_CheckWindowsSDKInstalled;;GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables" (valor anterior: ";GetFrameworkPaths;GetReferenceAssemblyPaths;AssignLinkMetadata;SetCABuildNativeEnvironmentVariables") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets (16,5)
+       Reatribuição de propriedade: $(CleanDependsOn)="
+             
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ;
+             CppClean
+           " (valor anterior: "
+             _PrepareForClean;
+             
+             BeforeClean;
+             UnmanagedUnregistration;
+             CoreClean;
+             CleanReferencedProjects;
+             CleanPublishFolder;
+             AfterClean
+           ;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets (22,5)
+       Reatribuição de propriedade: $(CppCleanDependsOn)="
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ;PGInstrumentedClean" (valor anterior: "
+             BeforeCppClean;
+             ;
+             CoreCppClean;
+             AfterCppClean;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppClean.targets (92,5)
+       Reatribuição de propriedade: $(BuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             TlogCleanup;
+             FinalizeBuildStatus;
+           " (valor anterior: "
+             _PrepareForBuild;
+             
+             ResolveReferences;
+             PrepareForBuild;
+             InitializeBuildStatus;
+             BuildGenerateSources;
+             BuildCompile;
+             BuildLink;
+           ;
+             AfterBuild;
+             IncrementalClean;
+             TlogCleanup;
+             FinalizeBuildStatus;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets (539,5)
+       Reatribuição de propriedade: $(RebuildDependsOn)="SetTelemetryEnvironmentVariables;
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           " (valor anterior: "
+             _PrepareForRebuild;
+             
+             BeforeRebuild;
+             Clean;
+             Build;
+             AfterRebuild;
+           ;
+           ") em C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets (540,5)
+       Substituindo o destino "GenerateTargetFrameworkMonikerAttribute" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "GenerateTargetFrameworkMonikerAttribute" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets".
+       Substituindo o destino "Build" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "Build" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets".
+       Substituindo o destino "Rebuild" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "Rebuild" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets".
+       Substituindo o destino "AfterBuild" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "AfterBuild" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets".
+       Substituindo o destino "PrepareForBuild" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "PrepareForBuild" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "GetTargetPath" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "GetTargetPath" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "ComputeIntermediateSatelliteAssemblies" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "ComputeIntermediateSatelliteAssemblies" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "ClCompile" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "ClCompile" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "ResourceCompile" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "ResourceCompile" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "Lib" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "Lib" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "Link" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "Link" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "AllProjectOutputGroups" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "AllProjectOutputGroups" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "BuiltProjectOutputGroup" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "BuiltProjectOutputGroup" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "DebugSymbolsProjectOutputGroup" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "DebugSymbolsProjectOutputGroup" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "DocumentationProjectOutputGroup" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "DocumentationProjectOutputGroup" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "SourceFilesProjectOutputGroup" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "SourceFilesProjectOutputGroup" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "ContentFilesProjectOutputGroup" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "ContentFilesProjectOutputGroup" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "AllProjectOutputGroupsDependencies" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "AllProjectOutputGroupsDependencies" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "BuiltProjectOutputGroupDependencies" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "BuiltProjectOutputGroupDependencies" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "DebugSymbolsProjectOutputGroupDependencies" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "DebugSymbolsProjectOutputGroupDependencies" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "DocumentationProjectOutputGroupDependencies" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "DocumentationProjectOutputGroupDependencies" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets".
+       Substituindo o destino "PreBuildEvent" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "PreBuildEvent" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "PostBuildEvent" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "PostBuildEvent" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "ClCompile" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "ClCompile" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "Link" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "Link" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "Lib" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "Lib" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "ImpLib" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "ImpLib" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "Midl" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "Midl" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "ResourceCompile" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "ResourceCompile" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "BeforeResGen" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "BeforeResGen" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "ResGen" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "ResGen" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "GenerateSatelliteAssemblies" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "GenerateSatelliteAssemblies" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "Manifest" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "Manifest" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "XdcMake" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "XdcMake" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "BscMake" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" pelo destino "BscMake" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "ComputeMetaGenInputs" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.MetaGen.targets" pelo destino "ComputeMetaGenInputs" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "GetNativeManifest" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "GetNativeManifest" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets".
+       Substituindo o destino "GetTargetPathWithTargetPlatformMoniker" no projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" pelo destino "GetTargetPathWithTargetPlatformMoniker" do projeto "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets".
+       O destino "CompileDesignTime" listado em um atributo BeforeTargets em "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\WebTools.Aspire\Microsoft.WebTools.Aspire.targets (44,11)" não existe no projeto e será ignorado.
+       O destino "CompileDesignTime" listado em um atributo BeforeTargets em "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\WebTools.Aspire\Microsoft.WebTools.Aspire.targets (57,11)" não existe no projeto e será ignorado.
+Compilação de 12/09/2024 20:01:06 iniciada.
+O detalhamento do log está definido como: Detailed.     1>Projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" no nó 2 (Build destino(s)).
+     1>Destino "EnableIntermediateOutputPathMismatchWarning" ignorado devido à condição falsa; ('$(RestoreProjectStyle)' == 'PackageReference') foi avaliado como ('' == 'PackageReference').
+     1>Destino "_CheckForInvalidConfigurationAndPlatform" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "SetTelemetryEnvironmentVariables" depende dele):
+       A tarefa "Error" foi ignorada devido a condição falsa; ( '$(_InvalidConfigurationError)' == 'true' ) foi avaliado como ( '' == 'true' ).
+       A tarefa "Warning" foi ignorada devido a condição falsa; ( '$(_InvalidConfigurationWarning)' == 'true' ) foi avaliado como ( '' == 'true' ).
+       Usando a tarefa "Message" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "Message"
+         Configuration=Debug
+       Tarefa em execução pronta "Message".
+       Tarefa "Message"
+         Platform=x64
+       Tarefa em execução pronta "Message".
+       A tarefa "Error" foi ignorada devido a condição falsa; ('$(OutDir)' != '' and !HasTrailingSlash('$(OutDir)')) foi avaliado como ('C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\' != '' and !HasTrailingSlash('C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\')).
+       A tarefa "Error" foi ignorada devido a condição falsa; ('$(IntermediateOutputPath)' != '' and !HasTrailingSlash('$(IntermediateOutputPath)')) foi avaliado como ('x64\Debug\' != '' and !HasTrailingSlash('x64\Debug\')).
+       A tarefa "Error" foi ignorada devido a condição falsa; ('$(BaseIntermediateOutputPath)' != '' and !HasTrailingSlash('$(BaseIntermediateOutputPath)')) foi avaliado como ('obj\' != '' and !HasTrailingSlash('obj\')).
+       A tarefa "MSBuildInternalMessage" foi ignorada devido a condição falsa; ( '$(Prefer32Bit)' == 'true' and '$(PreferNativeArm64)' == 'true' ) foi avaliado como ( '' == 'true' and '' == 'true' ).
+       A tarefa "MSBuildInternalMessage" foi ignorada devido a condição falsa; ( '$(NoWin32Manifest)' == 'true' and '$(PreferNativeArm64)' == 'true' ) foi avaliado como ( '' == 'true' and '' == 'true' ).
+       A tarefa "MSBuildInternalMessage" foi ignorada devido a condição falsa; ( '$(PreferNativeArm64)' == 'true' and '$(Platform)' != 'AnyCPU' ) foi avaliado como ( '' == 'true' and 'x64' != 'AnyCPU' ).
+       A tarefa "Error" foi ignorada devido a condição falsa; ( '$(_InitialMSBuildProjectExtensionsPath)' != '' And '$(MSBuildProjectExtensionsPath)' != '$(_InitialMSBuildProjectExtensionsPath)' ) foi avaliado como ( 'C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\obj\' != '' And 'C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\obj\' != 'C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\obj\' ).
+       A tarefa "Warning" foi ignorada devido a condição falsa; ( '$(EnableBaseIntermediateOutputPathMismatchWarning)' == 'true' And '$(_InitialBaseIntermediateOutputPath)' != '$(BaseIntermediateOutputPath)' And '$(BaseIntermediateOutputPath)' != '$(MSBuildProjectExtensionsPath)' ) foi avaliado como ( '' == 'true' And 'obj\' != 'obj\' And 'obj\' != 'C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\obj\' ).
+     1>Destino de compilação pronto"_CheckForInvalidConfigurationAndPlatform" no projeto "Cout_Cin.vcxproj".
+       Destino "_CheckForInvalidConfigurationAndPlatform" ignorado. Compilado anteriormente com êxito.
+     1>Destino "SetTelemetryEnvironmentVariables" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.DesignTime.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+       Usando a tarefa "SetEnv" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "SetEnv"
+         VSTEL_SolutionSessionID={590AD4FF-A5CC-4848-983C-25E69C30D1E7}
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         VSTEL_CurrentSolutionBuildID=2323232184
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         VSTEL_ProjectID={5d17d688-f5ec-429c-87df-24db5860f6f5}
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         VSTEL_SolutionPath=C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin.sln
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         VSTEL_MSBuildProjectFullPath=C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj
+       Tarefa em execução pronta "SetEnv".
+     1>Destino de compilação pronto"SetTelemetryEnvironmentVariables" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_PrepareForBuild" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+       A tarefa "CreateItem" foi ignorada devido a condição falsa; ('%(CustomBuild.IncludeFileToTool)'!='') foi avaliado como (''!='').
+     1>Destino de compilação pronto"_PrepareForBuild" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_PrepareForReferenceResolution" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveReferences" depende dele):
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(WarnAboutIndividualManagedFiles)' == 'true') foi avaliado como ('' == 'true').
+       A tarefa "Message" foi ignorada devido a condição falsa; ('$(_REFERENCE_DEBUG)'=='true') foi avaliado como (''=='true').
+     1>Destino de compilação pronto"_PrepareForReferenceResolution" no projeto "Cout_Cin.vcxproj".
+       Destino "ComputeCrtSDKReference" ignorado devido à condição falsa; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') foi avaliado como ('leitura_escrita.cpp'!='' and 'false'=='true' and '' != 'false').
+     1>Destino "BeforeResolveReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveReferences" depende dele):
+     1>Destino de compilação pronto"BeforeResolveReferences" no projeto "Cout_Cin.vcxproj".
+     1>Destino "IgnoreJavaScriptOutputAssembly" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "AssignProjectConfiguration" depende dele):
+     1>Destino de compilação pronto"IgnoreJavaScriptOutputAssembly" no projeto "Cout_Cin.vcxproj".
+     1>Destino "AssignProjectConfiguration" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveReferences" depende dele):
+       Usando a tarefa "AssignProjectConfiguration" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "AssignProjectConfiguration"
+       Tarefa em execução pronta "AssignProjectConfiguration".
+     1>Destino de compilação pronto"AssignProjectConfiguration" no projeto "Cout_Cin.vcxproj".
+       Destino "AssignProjectConfiguration" ignorado. Compilado anteriormente com êxito.
+     1>Destino "_SplitProjectReferencesByFileExistence" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareProjectReferences" depende dele):
+       A tarefa "ResolveNonMSBuildProjectOutput" foi ignorada devido a condição falsa; ('$(BuildingInsideVisualStudio)'=='true' and '@(ProjectReferenceWithConfiguration)'!='') foi avaliado como ('true'=='true' and ''!='').
+     1>Destino de compilação pronto"_SplitProjectReferencesByFileExistence" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_AddOutputPathToGlobalPropertiesToRemove" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_GetProjectReferenceTargetFrameworkProperties" depende dele):
+     1>Destino de compilação pronto"_AddOutputPathToGlobalPropertiesToRemove" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_GetProjectReferenceTargetFrameworkProperties" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareProjectReferences" depende dele):
+       Usando a tarefa "MSBuild" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "MSBuild"
+       Tarefa em execução pronta "MSBuild".
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('%(_MSBuildProjectReferenceExistent.SkipGetTargetFrameworkProperties)' != 'true' and '$(EnableDynamicPlatformResolution)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+       A tarefa "GetReferenceNearestTargetFrameworkTask" foi ignorada devido a condição falsa; ('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' == 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true') foi avaliado como ('' != '' and '' != ''
+                                                               And 'true' == 'true' and '' != 'true').
+       A tarefa "GetReferenceNearestTargetFrameworkTask" foi ignorada devido a condição falsa; ('@(_ProjectReferenceTargetFrameworkPossibilities)' != '' and '$(ReferringTargetFrameworkForProjectReferences)' != ''
+                                                               And '$(GetReferenceNearestTargetFrameworkTaskSupportsTargetPlatformParameter)' != 'true' and '%(_ProjectReferenceTargetFrameworkPossibilities.IsVcxOrNativeProj)' != 'true') foi avaliado como ('' != '' and '' != ''
+                                                               And 'true' != 'true' and '' != 'true').
+       Usando a tarefa "SetRidAgnosticValueForProjects" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "SetRidAgnosticValueForProjects"
+       Tarefa em execução pronta "SetRidAgnosticValueForProjects".
+     1>Destino de compilação pronto"_GetProjectReferenceTargetFrameworkProperties" no projeto "Cout_Cin.vcxproj".
+       Destino "_GetProjectReferencePlatformProperties" ignorado devido à condição falsa; ('$(EnableDynamicPlatformResolution)' == 'true'
+                            and '@(_MSBuildProjectReferenceExistent)' != '') foi avaliado como ('' == 'true'
+                            and '' != '').
+     1>Destino "PrepareProjectReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveProjectReferences" depende dele):
+     1>Destino de compilação pronto"PrepareProjectReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "_RemoveNameMetadataFromProjectReferenceItems" ignorado devido à condição falsa; ('@(ProjectReference)'!='') foi avaliado como (''!='').
+     1>Destino "ResolveProjectReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveReferences" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and ('$(BuildingInsideVisualStudio)' == 'true' or '$(BuildProjectReferences)' != 'true') and '$(VisualStudioVersion)' != '10.0' and '@(_MSBuildProjectReferenceExistent)' != '') foi avaliado como ('' == 'true' and '' != '' and ('true' == 'true' or 'true' != 'true') and '17.0' != '10.0' and '' != '').
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingInsideVisualStudio)' != 'true' and '$(BuildProjectReferences)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') foi avaliado como ('' == 'true' and '' != '' and 'true' != 'true' and 'true' == 'true' and '' != '').
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '$(BuildingProject)' == 'true' and '@(_MSBuildProjectReferenceExistent)' != '') foi avaliado como ('' == 'true' and '' != '' and 'true' == 'true' and '' != '').
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceNonexistent)' != '') foi avaliado como ('' != '' and '' != '').
+     1>Destino de compilação pronto"ResolveProjectReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "FindInvalidProjectReferences" ignorado devido à condição falsa; ('$(FindInvalidProjectReferences)' == 'true') foi avaliado como ('' == 'true').
+       Destino "ResolveNativeReferences" ignorado devido à condição falsa; ('@(NativeReference)'!='') foi avaliado como (''!='').
+       Destino "_PrepareForReferenceResolution" ignorado. Compilado anteriormente com êxito.
+       Destino "ResolveProjectReferences" ignorado. Compilado anteriormente com êxito.
+       Destino "FindInvalidProjectReferences" ignorado devido à condição falsa; ('$(FindInvalidProjectReferences)' == 'true') foi avaliado como ('' == 'true').
+     1>Destino "GetFrameworkPaths" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveAssemblyReferences" depende dele):
+     1>Destino de compilação pronto"GetFrameworkPaths" no projeto "Cout_Cin.vcxproj".
+       Destino "_PrepareForReferenceResolution" ignorado. Compilado anteriormente com êxito.
+       Destino "GetFrameworkPaths" ignorado. Compilado anteriormente com êxito.
+     1>Destino "GetReferenceAssemblyPaths" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveAssemblyReferences" depende dele):
+       A tarefa "GetReferenceAssemblyPaths" foi ignorada devido a condição falsa; ('$(TargetFrameworkMoniker)' != '' and ('$(_TargetFrameworkDirectories)' == '' or '$(_FullFrameworkReferenceAssemblyPaths)' == '')) foi avaliado como ('' != '' and ('' == '' or '' == '')).
+     1>Destino de compilação pronto"GetReferenceAssemblyPaths" no projeto "Cout_Cin.vcxproj".
+     1>Destino "AddExternalIncludDirectoriesToPaths" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "SetBuildDefaultEnvironmentVariables" depende dele):
+     1>Destino de compilação pronto"AddExternalIncludDirectoriesToPaths" no projeto "Cout_Cin.vcxproj".
+     1>Destino "SetBuildDefaultEnvironmentVariables" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.Current.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareForBuild" depende dele):
+       Tarefa "SetEnv"
+         PATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x64;;C:\Program Files (x86)\Windows Kits\10\bin\10.0.26100.0\x86;;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\tools;C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\ide;C:\Program Files (x86)\HTML Help Workshop;;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64;C:\Windows\Microsoft.NET\Framework64\v4.0.30319\;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin;C:\Windows\Microsoft.NET\Framework\v4.0.30319\;;C:\Program Files\Eclipse Adoptium\jdk-11.0.23.9-hotspot\bin;C:\Program Files\Java\jdk-22\bin;C:\Windows\system32;C:\Windows;C:\Windows\System32\Wbem;C:\Windows\System32\WindowsPowerShell\v1.0\;C:\Windows\System32\OpenSSH\;C:\wxwidgets\lib\vc14x_x64_dll;C:\Program Files\Git\cmd;C:\Program Files (x86)\Windows Kits\10\Windows Performance Toolkit\;C:\Users\Usuario\AppData\Local\Programs\Python\Python311\Scripts\;C:\Users\Usuario\AppData\Local\Programs\Python\Python311\;C:\Users\Usuario\AppData\Local\Microsoft\WindowsApps;C:\Users\Usuario\AppData\Local\Programs\Microsoft VS Code\bin;C:\MinGW\bin;
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         LIB=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\lib\x64;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\ucrt\x64;;;C:\Program Files (x86)\Windows Kits\10\lib\10.0.26100.0\um\x64;lib\um\x64;
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         LIBPATH=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\x64;
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;
+       Tarefa em execução pronta "SetEnv".
+       Tarefa "SetEnv"
+         EXTERNAL_INCLUDE=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\include;;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Auxiliary\VS\include;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;
+       Tarefa em execução pronta "SetEnv".
+     1>Destino de compilação pronto"SetBuildDefaultEnvironmentVariables" no projeto "Cout_Cin.vcxproj".
+       Destino "SetUserMacroEnvironmentVariables" ignorado devido à condição falsa; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') foi avaliado como ('' != '' and '' != 'true').
+       Destino "_PrepareForReferenceResolution" ignorado. Compilado anteriormente com êxito.
+     1>Destino "GetResolvedWinMD" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareForBuild" depende dele):
+     1>Destino de compilação pronto"GetResolvedWinMD" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_CheckWindowsSDKInstalled" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Cpp.WindowsSDK.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareForBuild" depende dele):
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(WindowsSDKInstalled)' != 'true') foi avaliado como ('true' != 'true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(WindowsAppContainer)' != 'true' and '$(WindowsSDK_Desktop_Support)' != true) foi avaliado como ('false' != 'true' and 'true' != true).
+     1>Destino de compilação pronto"_CheckWindowsSDKInstalled" no projeto "Cout_Cin.vcxproj".
+       Destino "GetFrameworkPaths" ignorado. Compilado anteriormente com êxito.
+       Destino "GetReferenceAssemblyPaths" ignorado. Compilado anteriormente com êxito.
+       Destino "AssignLinkMetadata" ignorado devido à condição falsa; ( '$(SynthesizeLinkMetadata)' == 'true' ) foi avaliado como ( '' == 'true' ).
+     1>Destino "SetCABuildNativeEnvironmentVariables" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VisualStudio\v17.0\CodeAnalysis\Microsoft.CodeAnalysis.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareForBuild" depende dele):
+       Tarefa "SetEnv"
+         CAExcludePath=C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\include;C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\include;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\ucrt;;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\um;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\shared;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\winrt;C:\Program Files (x86)\Windows Kits\10\Include\10.0.26100.0\cppwinrt;Include\um;
+       Tarefa em execução pronta "SetEnv".
+       A tarefa "SetEnv" foi ignorada devido a condição falsa; ('$(RunMsvcAnalysis)'=='true' and '$(VCCodeAnalysisUX)'=='true') foi avaliado como ('false'=='true' and 'true'=='true').
+     1>Destino de compilação pronto"SetCABuildNativeEnvironmentVariables" no projeto "Cout_Cin.vcxproj".
+     1>Destino "PrepareForBuild" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveAssemblyReferences" depende dele):
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)' != 'true' and '$(ConfigurationPlatformExists)' != 'true') foi avaliado como ('' != 'true' and 'true' != 'true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(ApplicationType)' == '' and '$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') foi avaliado como ('' == '' and '' != 'true' and 'true' != 'true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(ApplicationType)' != '' and '$(DesignTimeBuild)' != 'true' and '$(_ToolsetFound)' != 'true') foi avaliado como ('' != '' and '' != 'true' and 'true' != 'true').
+       Usando a tarefa "MakeDir" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(WindowsAppContainer)'=='true' and '$(ConfigurationType)'!='Application' and '$(ConfigurationType)'!='DynamicLibrary' and '$(ConfigurationType)'!='StaticLibrary') foi avaliado como (''!='true' and 'false'=='true' and 'Application'!='Application' and 'Application'!='DynamicLibrary' and 'Application'!='StaticLibrary').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and ('$(TargetFrameworkVersion)'=='v3.5' or '$(TargetFrameworkVersion)'=='v3.0' or '$(TargetFrameworkVersion)'=='v2.0' )) foi avaliado como (''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\'=='' and '' != 'true' and (''=='v3.5' or ''=='v3.0' or ''=='v2.0' )).
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true' and '$(PlatformToolset)'=='v90') foi avaliado como (''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\'=='' and '' != 'true' and 'v143'=='v90').
+       Usando a tarefa "CheckVCToolsetVersion" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "CheckVCToolsetVersion"
+       Tarefa em execução pronta "CheckVCToolsetVersion".
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' == '') foi avaliado como ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64\mfcs140.lib) and '' == '').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(CheckMFCInstalled)' == 'true' and !Exists($(MFC_KeyFile)) and '$(SpectreLibs)' != '') foi avaliado como ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64\mfcs140.lib) and '' != '').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' == '') foi avaliado como ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64\atls.lib) and '' == '').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(CheckATLInstalled)' == 'true' and !Exists($(ATL_KeyFile)) and '$(SpectreLibs)' != '') foi avaliado como ('' == 'true' and !Exists(C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\atlmfc\lib\x64\atls.lib) and '' != '').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)' != 'true' and
+                                                               '$(CheckMSVCComponents)'=='true' and
+                                                               '$(SpectreMitigation)' != '' and
+                                                               '$(SpectreMitigation)' != 'false' and
+                                                               (('$(VC_Target_Library_Platform)' == 'OneCore' and !Exists('$(VC_LibraryPath_VC_OneCore_CurrentPlatform_spectre)')) or
+                                                                ('$(VC_Target_Library_Platform)' == 'Desktop' and !Exists('$(VC_LibraryPath_VC_Desktop_CurrentPlatform_spectre)')))) foi avaliado como ('' != 'true' and
+                                                               'true'=='true' and
+                                                               'false' != '' and
+                                                               'false' != 'false' and
+                                                               (('Desktop' == 'OneCore' and !Exists('C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\spectre\onecore\x64')) or
+                                                                ('Desktop' == 'Desktop' and !Exists('C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\lib\spectre\x64')))).
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(VCToolsInstallDir)'=='' and '$(UseEnv)' != 'true'  and '$(CheckMSVCComponents)'=='true') foi avaliado como (''!='true' and 'C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\'=='' and '' != 'true'  and 'true'=='true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(WindowsSDKDir)'=='' and '$(UseEnv)' != 'true') foi avaliado como (''!='true' and 'C:\Program Files (x86)\Windows Kits\10\'=='' and '' != 'true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(IntDirTrailingSlashWarning)'=='true') foi avaliado como (''!='true' and ''=='true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(OutDirTrailingSlashWarning)'=='true') foi avaliado como (''!='true' and ''=='true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('%(CompatibilityIssues.Identity)' != '' and '$(DesignTimeBuild)'!='true') foi avaliado como ('' != '' and ''!='true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(IgnoreWarnIntDirSharingDetected)' != 'true' and '$(IntDirSharingDetected)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+       Imóvel 'TMP' com valor 'C:\Users\Usuario\AppData\Local\Temp' expandido do ambiente.
+       Imóvel 'TEMP' com valor 'C:\Users\Usuario\AppData\Local\Temp' expandido do ambiente.
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(DesignTimeBuild)'!='true' and '$(IgnoreWarnIntDirInTempDetected)' != 'true' and ('$(IntDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(IntDirFullPath.StartsWith($(_Temp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Tmp), true, null))' == 'true' or '$(OutDirFullPath.StartsWith($(_Temp), true, null))' == 'true')) foi avaliado como (''!='true' and '' != 'true' and ('False' == 'true' or 'False' == 'true' or 'False' == 'true' or 'False' == 'true')).
+       Usando a tarefa "VCMessage" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "VCMessage"
+         A saída estruturada está habilitada. A formatação do diagnóstico do compilador refletirá a hierarquia de erros. Consulte https://aka.ms/cpp/structured-output para obter mais detalhes.
+       Tarefa em execução pronta "VCMessage".
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"PrepareForBuild" no projeto "Cout_Cin.vcxproj".
+       Destino "_PrepareForReferenceResolution" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeCrtSDKReference" ignorado devido à condição falsa; ('@(ClCompile)'!='' and '$(WindowsAppContainer)'=='true' and '$(UseCrtSDKReference)' != 'false') foi avaliado como ('leitura_escrita.cpp'!='' and 'false'=='true' and '' != 'false').
+       Destino "GetInstalledSDKLocations" ignorado devido à condição falsa; ('@(SDKReference)' != '') foi avaliado como ('' != '').
+     1>Destino "ResolveSDKReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveAssemblyReferences" depende dele):
+       A tarefa "ResolveSDKReference" foi ignorada devido a condição falsa; ('@(SDKReference)'!='') foi avaliado como (''!='').
+     1>Destino de compilação pronto"ResolveSDKReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "ResolveSDKReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "ExpandSDKReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveAssemblyReferences" depende dele):
+       A tarefa "GetSDKReferenceFiles" foi ignorada devido a condição falsa; ('@(ResolvedSDKReference)'!='') foi avaliado como (''!='').
+     1>Destino de compilação pronto"ExpandSDKReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "ResolveNuGetPackageAssets" ignorado devido à condição falsa; ('$(ResolveNuGetPackages)' == 'true' and exists('$(ProjectLockFile)')) foi avaliado como ('true' == 'true' and exists('obj\project.assets.json')).
+     1>Destino "ResolveAssemblyReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveReferences" depende dele):
+       A tarefa "ResolveAssemblyReference" foi ignorada devido a condição falsa; ('@(Reference)'!='' or '@(_ResolvedProjectReferencePaths)'!='' or '@(_ExplicitReference)' != '') foi avaliado como (''!='' or ''!='' or '' != '').
+     1>Destino de compilação pronto"ResolveAssemblyReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "GenerateBindingRedirects" ignorado devido à condição falsa; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true' and '@(SuggestedBindingRedirects)' != '' and '$(DesignTimeBuild)' != 'true' and '$(BuildingProject)' == 'true') foi avaliado como ('' == 'true' and 'true' == 'true' and '' != '' and '' != 'true' and 'true' == 'true').
+       Destino "GenerateBindingRedirectsUpdateAppConfig" ignorado devido à condição falsa; ('$(AutoGenerateBindingRedirects)' == 'true' and '$(GenerateBindingRedirectsOutputType)' == 'true') foi avaliado como ('' == 'true' and 'true' == 'true').
+       Destino "ResolveComReferences" ignorado devido à condição falsa; ('@(COMReference)'!='' or '@(COMFileReference)'!='') foi avaliado como (''!='' or ''!='').
+     1>Destino "AfterResolveReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ResolveReferences" depende dele):
+     1>Destino de compilação pronto"AfterResolveReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "ResolveTestReferences" ignorado devido à condição falsa; ('@(Shadow)'!='') foi avaliado como (''!='').
+     1>Destino "ResolveReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+     1>Destino de compilação pronto"ResolveReferences" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+     1>Destino "InitializeBuildStatus" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+       Usando a tarefa "ReadLinesFromFile" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "ReadLinesFromFile"
+       Tarefa em execução pronta "ReadLinesFromFile".
+       Usando a tarefa "WriteLinesToFile" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "WriteLinesToFile"
+       Tarefa em execução pronta "WriteLinesToFile".
+       Usando a tarefa "Touch" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "Touch"
+         Tocando "x64\Debug\Cout_Cin.tlog\unsuccessfulbuild".
+       Tarefa em execução pronta "Touch".
+     1>Destino de compilação pronto"InitializeBuildStatus" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareProjectReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "BuildGenerateSourcesTraverse" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "BuildGenerateSources" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') foi avaliado como ('' == 'true' and '' != '' and '' != '' and '' == 'true').
+     1>Destino de compilação pronto"BuildGenerateSourcesTraverse" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "ResolveReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "BeforeBuildGenerateSources" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+     1>Destino de compilação pronto"BeforeBuildGenerateSources" no projeto "Cout_Cin.vcxproj".
+     1>Destino "PreBuildEvent" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+       A tarefa "Message" foi ignorada devido a condição falsa; ('%(PreBuildEvent.Message)' != '' and '%(PreBuildEvent.Command)' != '') foi avaliado como ('' != '' and '' != '').
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('%(PreBuildEvent.Command)' != '') foi avaliado como ('' != '').
+     1>Destino de compilação pronto"PreBuildEvent" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "InitializeBuildStatus" ignorado. Compilado anteriormente com êxito.
+       Destino "SetBuildDefaultEnvironmentVariables" ignorado. Compilado anteriormente com êxito.
+       Destino "SetUserMacroEnvironmentVariables" ignorado devido à condição falsa; ('@(BuildMacro)' != '' and '$(DesignTimeBuild)' != 'true') foi avaliado como ('' != '' and '' != 'true').
+     1>Destino "_SelectedFiles" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "SelectCustomBuild" depende dele):
+     1>Destino de compilação pronto"_SelectedFiles" no projeto "Cout_Cin.vcxproj".
+     1>Destino "SelectCustomBuild" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CustomBuild" depende dele):
+     1>Destino de compilação pronto"SelectCustomBuild" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeCustomBuildOutput" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CustomBuild" depende dele):
+       A tarefa "CreateItem" foi ignorada devido a condição falsa; ('%(CustomBuildOutputs.OutputItemType)'!='') foi avaliado como (''!='').
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"ComputeCustomBuildOutput" no projeto "Cout_Cin.vcxproj".
+     1>Destino "CustomBuild" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+       Usando a tarefa "GetOutOfDateItems" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "GetOutOfDateItems"
+       Tarefa em execução pronta "GetOutOfDateItems".
+       Tarefa "GetOutOfDateItems"
+       Tarefa em execução pronta "GetOutOfDateItems".
+       A tarefa "ParallelCustomBuild" foi ignorada devido a condição falsa; ('@(_ParallelCustomBuild)' != '') foi avaliado como ('' != '').
+       A tarefa "CustomBuild" foi ignorada devido a condição falsa; ('@(_CustomBuild)' != '') foi avaliado como ('' != '').
+     1>Destino de compilação pronto"CustomBuild" no projeto "Cout_Cin.vcxproj".
+       Destino "FxExport" ignorado devido à condição falsa; ('@(FxCompile)' != '') foi avaliado como ('' != '').
+       Destino "FxCompile" ignorado devido à condição falsa; ('@(FxCompile)' != '') foi avaliado como ('' != '').
+       Destino "_CreateCopyFileItems" ignorado devido à condição falsa; ('@(CopyFileToFolders)' != '') foi avaliado como ('' != '').
+       Destino "_SelectedFiles" ignorado. Compilado anteriormente com êxito.
+     1>Destino "CopyFileToFolders" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+       Tarefa "GetOutOfDateItems"
+       Tarefa em execução pronta "GetOutOfDateItems".
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('@(_OutOfDateCopyFile)' != '') foi avaliado como ('' != '').
+     1>Destino de compilação pronto"CopyFileToFolders" no projeto "Cout_Cin.vcxproj".
+       Destino "Xsd" ignorado devido à condição falsa; ('@(Xsd)' != '') foi avaliado como ('' != '').
+     1>Destino "_Xsd" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+     1>Destino de compilação pronto"_Xsd" no projeto "Cout_Cin.vcxproj".
+     1>Destino "MakeDirsForMidl" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Midl" depende dele):
+       Tarefa "Makedir"
+       Tarefa em execução pronta "Makedir".
+     1>Destino de compilação pronto"MakeDirsForMidl" no projeto "Cout_Cin.vcxproj".
+       Destino "Midl" ignorado devido à condição falsa; ('@(Midl)' != '') foi avaliado como ('' != '').
+       Destino "FxExport" ignorado devido à condição falsa; ('@(FxCompile)' != '') foi avaliado como ('' != '').
+       Destino "FxCompile" ignorado devido à condição falsa; ('@(FxCompile)' != '') foi avaliado como ('' != '').
+     1>Destino "ComputeMIDLGeneratedCompileInputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Midl" depende dele):
+     1>Destino de compilação pronto"ComputeMIDLGeneratedCompileInputs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "AfterMidl" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Midl" depende dele):
+     1>Destino de compilação pronto"AfterMidl" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_Midl" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+     1>Destino de compilação pronto"_Midl" no projeto "Cout_Cin.vcxproj".
+     1>Destino "AfterBuildGenerateSources" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+     1>Destino de compilação pronto"AfterBuildGenerateSources" no projeto "Cout_Cin.vcxproj".
+     1>Destino "AfterBuildGenerateSourcesEvent" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildGenerateSourcesAction" depende dele):
+     1>Destino de compilação pronto"AfterBuildGenerateSourcesEvent" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_BuildGenerateSourcesAction" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "BuildGenerateSources" depende dele):
+     1>Destino de compilação pronto"_BuildGenerateSourcesAction" no projeto "Cout_Cin.vcxproj".
+     1>Destino "BuildGenerateSources" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+     1>Destino de compilação pronto"BuildGenerateSources" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareProjectReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "BuildCompileTraverse" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "BuildCompile" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') foi avaliado como ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Destino de compilação pronto"BuildCompileTraverse" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "ResolveReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "BeforeClCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+     1>Destino de compilação pronto"BeforeClCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "GenerateTargetFrameworkMonikerAttribute" ignorado devido à condição falsa; ('$(GenerateTargetFrameworkAttribute)' == 'true') foi avaliado como ('false' == 'true').
+       Destino "ComputeMIDLGeneratedCompileInputs" ignorado. Compilado anteriormente com êxito.
+     1>Destino "ComputeCLInputPDBName" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+     1>Destino de compilação pronto"ComputeCLInputPDBName" no projeto "Cout_Cin.vcxproj".
+       Destino "ResolveReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "FindReferenceAssembliesForReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ComputeReferenceCLInput" depende dele):
+     1>Destino de compilação pronto"FindReferenceAssembliesForReferences" no projeto "Cout_Cin.vcxproj".
+     1>Destino "GetReferencedVCProjectsInfo" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ComputeReferenceCLInput" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '') foi avaliado como ('' == '.vcxproj' and '' != '' and '' != '').
+     1>Destino de compilação pronto"GetReferencedVCProjectsInfo" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeReferenceCLInput" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+       A tarefa "WriteLinesToFile" foi ignorada devido a condição falsa; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true') foi avaliado como (''!='' and '' != 'true' and 'true' == 'true').
+       A tarefa "WriteLinesToFile" foi ignorada devido a condição falsa; ('@(_ReferenceOutputsToCopyLocally)'!='' and '$(DesignTimeBuild)' != 'true' and '$(TrackFileAccess)' == 'true') foi avaliado como (''!='' and '' != 'true' and 'true' == 'true').
+       A tarefa "Message" foi ignorada devido a condição falsa; ('$(_REFERENCE_DEBUG)'=='true') foi avaliado como (''=='true').
+     1>Destino de compilação pronto"ComputeReferenceCLInput" no projeto "Cout_Cin.vcxproj".
+     1>Destino "WarnCompileDuplicatedFilename" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('%(ClCompile.ExcludedFromBuild)' != 'true' and '%(Filename)%(Extension)' != '@(ClCompile->'%(Filename)%(Extension)')' and '%(ObjectFileName)' == '@(ClCompile->Metadata(ObjectFileName)->Distinct())') foi avaliado como ('' != 'true' and 'leitura_escrita.cpp' != 'leitura_escrita.cpp' and 'x64\Debug\' == 'x64\Debug\').
+     1>Destino de compilação pronto"WarnCompileDuplicatedFilename" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeStdModulesCompileInputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+       A tarefa "GetLibraryModuleSources" foi ignorada devido a condição falsa; ('@(LibraryManifests)' != '') foi avaliado como ('' != '').
+     1>Destino de compilação pronto"ComputeStdModulesCompileInputs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "FixupCLCompileOptions" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+     1>Destino de compilação pronto"FixupCLCompileOptions" no projeto "Cout_Cin.vcxproj".
+       Destino "SetModuleDependencies" ignorado devido à condição falsa; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+     1>Destino "MakeDirsForCl" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"MakeDirsForCl" no projeto "Cout_Cin.vcxproj".
+       Destino "_SelectedFiles" ignorado. Compilado anteriormente com êxito.
+       Destino "GenerateTargetFrameworkMonikerAttribute" ignorado devido à condição falsa; ('$(GenerateTargetFrameworkAttribute)' == 'true') foi avaliado como ('false' == 'true').
+       Destino "ComputeMIDLGeneratedCompileInputs" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeCLInputPDBName" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeReferenceCLInput" ignorado. Compilado anteriormente com êxito.
+       Destino "WarnCompileDuplicatedFilename" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeStdModulesCompileInputs" ignorado. Compilado anteriormente com êxito.
+       Destino "FixupCLCompileOptions" ignorado. Compilado anteriormente com êxito.
+       Destino "SetModuleDependencies" ignorado devido à condição falsa; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+       Destino "SelectCustomBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "SetModuleDependencies" ignorado devido à condição falsa; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+     1>Destino "SelectClCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ClCompile" depende dele):
+     1>Destino de compilação pronto"SelectClCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "SelectAnalysisManifest" ignorado devido à condição falsa; ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') foi avaliado como ('false'=='true' and ''!='').
+       Destino "ManagedIncrementalBuildPreProcessDependencyGraph" ignorado devido à condição falsa; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') foi avaliado como ('leitura_escrita.cpp' != '' and 'false' == 'True').
+     1>Destino "ClCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+       A tarefa "Delete" foi ignorada devido a condição falsa; ('%(ClCompile.DebugInformationFormat)' != '' and '%(ClCompile.DebugInformationFormat)' != 'None' and '%(ClCompile.DebugInformationFormat)' != 'OldStyle' and '%(ClCompile.ProgramDataBaseFileName)' != '' and !Exists(%(ClCompile.ProgramDataBaseFileName))) foi avaliado como ('EditAndContinue' != '' and 'EditAndContinue' != 'None' and 'EditAndContinue' != 'OldStyle' and 'x64\Debug\vc143.pdb' != '' and !Exists(x64\Debug\vc143.pdb)).
+       A tarefa "MultiToolTask" foi ignorada devido a condição falsa; ('%(ClCompile.CompilerIteration)' == 'Modules') foi avaliado como ('' == 'Modules').
+       A tarefa "MultiToolTask" foi ignorada devido a condição falsa; ('%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' == 'true') foi avaliado como ('' == '' and 'false' == 'true').
+       A tarefa "CL" foi ignorada devido a condição falsa; ('%(ClCompile.PrecompiledHeader)' == 'Create' and '%(ClCompile.CompilerIteration)' == '' and '$(MultiProcCL)' != 'true') foi avaliado como ('NotUsing' == 'Create' and '' == '' and 'false' != 'true').
+       Usando a tarefa "CL" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "CL"
+         Saídas para C:\USERS\USUARIO\SOURCE\REPOS\FOTOGRAFIA_COMPUTACIONAL_2024_IMPACT_LAB\AULA_01\COUT_CIN\COUT_CIN\LEITURA_ESCRITA.CPP:
+         	C:\USERS\USUARIO\SOURCE\REPOS\FOTOGRAFIA_COMPUTACIONAL_2024_IMPACT_LAB\AULA_01\COUT_CIN\COUT_CIN\X64\DEBUG\LEITURA_ESCRITA.OBJ
+         leitura_escrita.cpp será compilado, pois o log de controle não está disponível.
+         Log de Controle de Gravação não disponível; a recompilação mínima será desabilitada.
+         Variáveis de Ambiente passadas para a ferramenta:
+           VS_UNICODE_OUTPUT=1300
+           SARIF_OUTPUT_PIPE=1760
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt leitura_escrita.cpp
+         Comando de controle:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Tracker.exe /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\x64\Debug\Cout_Cin.tlog /r C:\USERS\USUARIO\SOURCE\REPOS\FOTOGRAFIA_COMPUTACIONAL_2024_IMPACT_LAB\AULA_01\COUT_CIN\COUT_CIN\LEITURA_ESCRITA.CPP /b MSBuildConsole_CancelEvent9c41f20d00554d4a8e480b71384b41ef  /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\CL.exe"  /c /ZI /JMC /nologo /W3 /WX- /diagnostics:column /sdl /Od /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /permissive- /Fo"x64\Debug\\" /Fd"x64\Debug\vc143.pdb" /external:W3 /Gd /TP /FC /errorReport:prompt leitura_escrita.cpp
+         leitura_escrita.cpp
+       Tarefa em execução pronta "CL".
+     1>Destino de compilação pronto"ClCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "RunSelectedFileNativeCodeAnalysis" ignorado devido à condição falsa; ('$(RunMsvcAnalysis)'=='true' and '$(SelectedFiles)'!='') foi avaliado como ('false'=='true' and ''!='').
+       Destino "ManagedIncrementalBuildPostProcessDependencyGraph" ignorado devido à condição falsa; ('@(ClCompile)' != '' and '$(EnableManagedIncrementalBuild)' == 'True') foi avaliado como ('leitura_escrita.cpp' != '' and 'false' == 'True').
+       Destino "NoAnalysisToolEnabledWarning" ignorado devido à condição falsa; ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='false' AND '$(EnableClangTidyCodeAnalysis)'=='false') foi avaliado como ('false'=='true' AND 'true'=='false' AND 'false'=='false').
+       Destino "RunSelectedFileClangTidy" ignorado devido à condição falsa; ('$(RunClangCppAnalysis)'=='true' AND '$(SelectedFiles)'!='') foi avaliado como ('false'=='true' AND ''!='').
+       Destino "MicrosoftAnalysisIncompatiableWithClangCl" ignorado devido à condição falsa; ('$(RunCppAnalysis)'=='true' AND '$(EnableMicrosoftCodeAnalysis)'=='true' AND '$(UseClangCl)'=='true') foi avaliado como ('false'=='true' AND 'true'=='true' AND ''=='true').
+     1>Destino "AfterClCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ClCompile" depende dele):
+     1>Destino de compilação pronto"AfterClCompile" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_ClCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildCompileAction" depende dele):
+     1>Destino de compilação pronto"_ClCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "_ResGen" ignorado devido à condição falsa; ('@(EmbeddedResource)'!='') foi avaliado como (''!='').
+     1>Destino "BeforeResourceCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ResourceCompile" depende dele):
+     1>Destino de compilação pronto"BeforeResourceCompile" no projeto "Cout_Cin.vcxproj".
+     1>Destino "MakeDirsForResourceCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ResourceCompile" depende dele):
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"MakeDirsForResourceCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "ResourceCompile" ignorado devido à condição falsa; ('@(ResourceCompile)' != '') foi avaliado como ('' != '').
+     1>Destino "AfterResourceCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_ResourceCompile" depende dele):
+     1>Destino de compilação pronto"AfterResourceCompile" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_ResourceCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildCompileAction" depende dele):
+     1>Destino de compilação pronto"_ResourceCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "_ImpLib" ignorado devido à condição falsa; ('$(ImpLibCompiled)' == 'true') foi avaliado como ('' == 'true').
+       Destino "_Lib" ignorado devido à condição falsa; ('$(LibCompiled)' == 'true') foi avaliado como ('' == 'true').
+     1>Destino "AfterBuildCompileEvent" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildCompileAction" depende dele):
+     1>Destino de compilação pronto"AfterBuildCompileEvent" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_BuildCompileAction" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "BuildCompile" depende dele):
+     1>Destino de compilação pronto"_BuildCompileAction" no projeto "Cout_Cin.vcxproj".
+     1>Destino "BuildCompile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+     1>Destino de compilação pronto"BuildCompile" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareProjectReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "BuildLinkTraverse" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "BuildLink" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('$(BuildPassReferences)' == 'true' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != ''  and '%(_MSBuildProjectReferenceExistent.BuildReference)' == 'true') foi avaliado como ('' == 'true' and '' != '' and '' != ''  and '' == 'true').
+     1>Destino de compilação pronto"BuildLinkTraverse" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "ResolveReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "ComputeLegacyManifestEmbedding" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(RevertManifestEmbedding)' == 'true' and '$(_LegacyManifestEmbeddingDebug)' == 'true') foi avaliado como ('' == 'true' and '' == 'true').
+     1>Destino de compilação pronto"ComputeLegacyManifestEmbedding" no projeto "Cout_Cin.vcxproj".
+     1>Destino "BeforeLink" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"BeforeLink" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeRCOutputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ComputeRCGeneratedLinkInputs" depende dele):
+     1>Destino de compilação pronto"ComputeRCOutputs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeRCGeneratedLinkInputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"ComputeRCGeneratedLinkInputs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeManifestGeneratedLinkerInputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"ComputeManifestGeneratedLinkerInputs" no projeto "Cout_Cin.vcxproj".
+       Destino "ComputeCustomBuildOutput" ignorado. Compilado anteriormente com êxito.
+       Destino "GenerateTargetFrameworkMonikerAttribute" ignorado devido à condição falsa; ('$(GenerateTargetFrameworkAttribute)' == 'true') foi avaliado como ('false' == 'true').
+       Destino "ComputeMIDLGeneratedCompileInputs" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeCLInputPDBName" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeReferenceCLInput" ignorado. Compilado anteriormente com êxito.
+       Destino "WarnCompileDuplicatedFilename" ignorado. Compilado anteriormente com êxito.
+       Destino "ComputeStdModulesCompileInputs" ignorado. Compilado anteriormente com êxito.
+       Destino "FixupCLCompileOptions" ignorado. Compilado anteriormente com êxito.
+       Destino "SetModuleDependencies" ignorado devido à condição falsa; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+       Destino "SetModuleDependencies" ignorado devido à condição falsa; ('$(DesignTimeBuild)' != 'true' and '$(EnableCppModules)' == 'true') foi avaliado como ('' != 'true' and '' == 'true').
+     1>Destino "ComputeCLOutputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ComputeCLGeneratedLinkInputs" depende dele):
+     1>Destino de compilação pronto"ComputeCLOutputs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeCLGeneratedLinkInputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"ComputeCLGeneratedLinkInputs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeLinkInputsFromProject" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"ComputeLinkInputsFromProject" no projeto "Cout_Cin.vcxproj".
+       Destino "ComputeReferenceLinkInputs" ignorado devido à condição falsa; (@(ProjectReference) != '') foi avaliado como ( != '').
+     1>Destino "ComputeManifestInputsTargets" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"ComputeManifestInputsTargets" no projeto "Cout_Cin.vcxproj".
+       Destino "ManifestResourceCompile" ignorado devido à condição falsa; ('$(EmbedManifestBy)' == 'LINK' and '@(Manifest)' != '') foi avaliado como ('LINK' == 'LINK' and '' != '').
+     1>Destino "AssignTargetPaths" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareResourceNames" depende dele):
+       Usando a tarefa "AssignTargetPath" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+       A tarefa "AssignTargetPath" foi ignorada devido a condição falsa; ('@(_DeploymentBaseManifestWithTargetPath)'=='' and '%(None.Extension)'=='.manifest') foi avaliado como (''=='' and ''=='.manifest').
+     1>Destino de compilação pronto"AssignTargetPaths" no projeto "Cout_Cin.vcxproj".
+       Destino "AssignTargetPaths" ignorado. Compilado anteriormente com êxito.
+     1>Destino "SplitResourcesByCulture" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareResourceNames" depende dele):
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(ResxWithNoCulture)'!='') foi avaliado como (''!='').
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(ResxWithCulture)'!='') foi avaliado como (''!='').
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(NonResxWithCulture)'!='') foi avaliado como (''!='').
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(NonResxWithNoCulture)'!='') foi avaliado como (''!='').
+       Usando a tarefa "AssignCulture" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "AssignCulture"
+       Tarefa em execução pronta "AssignCulture".
+     1>Destino de compilação pronto"SplitResourcesByCulture" no projeto "Cout_Cin.vcxproj".
+       Destino "CreateManifestResourceNames" ignorado devido à condição falsa; ('@(EmbeddedResource)' != '') foi avaliado como ('' != '').
+     1>Destino "CreateCustomManifestResourceNames" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareResourceNames" depende dele):
+     1>Destino de compilação pronto"CreateCustomManifestResourceNames" no projeto "Cout_Cin.vcxproj".
+     1>Destino "PrepareResourceNames" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"PrepareResourceNames" no projeto "Cout_Cin.vcxproj".
+     1>Destino "MakeDirsForLink" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"MakeDirsForLink" no projeto "Cout_Cin.vcxproj".
+     1>Destino "DoLinkOutputFilesMatch" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('@(_OutputFileFromLink)' == '') foi avaliado como ('C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe' == '').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.FullPath)' != '$([System.IO.Path]::GetFullPath($(TargetPath)))') foi avaliado como ('C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe' != '' and 'C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe' != 'C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Extension)' != '' and '%(_OutputFileFromLink.Extension)' != '$(TargetExt)') foi avaliado como ('C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe' != '' and '.exe' != '' and '.exe' != '.exe').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('@(_OutputFileFromLink)' != '' and '%(_OutputFileFromLink.Filename)' != '' and '%(_OutputFileFromLink.Filename)' != '$(TargetName)') foi avaliado como ('C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe' != '' and 'Cout_Cin' != '' and 'Cout_Cin' != 'Cout_Cin').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('%(Link.MinimumRequiredVersion)' != '' and ('%(Link.Subsystem)' == '' or '%(Link.Subsystem)' == 'NotSet')) foi avaliado como ('' != '' and ('Console' == '' or 'Console' == 'NotSet')).
+     1>Destino de compilação pronto"DoLinkOutputFilesMatch" no projeto "Cout_Cin.vcxproj".
+     1>Destino "PreLinkEvent" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+       A tarefa "Message" foi ignorada devido a condição falsa; ('%(PreLinkEvent.Message)' != '' and '%(PreLinkEvent.Command)' != '') foi avaliado como ('' != '' and '' != '').
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('%(PreLinkEvent.Command)' != '') foi avaliado como ('' != '').
+     1>Destino de compilação pronto"PreLinkEvent" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeLinkSwitches" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Link" depende dele):
+     1>Destino de compilação pronto"ComputeLinkSwitches" no projeto "Cout_Cin.vcxproj".
+     1>Destino "Link" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+       Usando a tarefa "Link" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "Link"
+         Variáveis de Ambiente passadas para a ferramenta:
+           VS_UNICODE_OUTPUT=1228
+         C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe" /INCREMENTAL /ILK:"x64\Debug\Cout_Cin.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.lib" /MACHINE:X64 x64\Debug\leitura_escrita.obj
+         Comando de controle:
+         C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Tracker.exe /a /d "C:\Program Files (x86)\MSBuild\15.0\FileTracker\FileTracker32.dll" /i C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\x64\Debug\Cout_Cin.tlog /r C:\USERS\USUARIO\SOURCE\REPOS\FOTOGRAFIA_COMPUTACIONAL_2024_IMPACT_LAB\AULA_01\COUT_CIN\COUT_CIN\X64\DEBUG\LEITURA_ESCRITA.OBJ /b MSBuildConsole_CancelEvent564fcd89542e42638f1c651b13e3bd1a  /c "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.41.34120\bin\HostX64\x64\link.exe"  /ERRORREPORT:PROMPT /OUT:"C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe" /INCREMENTAL /ILK:"x64\Debug\Cout_Cin.ilk" /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.lib" /MACHINE:X64 x64\Debug\leitura_escrita.obj
+       Tarefa em execução pronta "Link".
+       Tarefa "Message"
+         Cout_Cin.vcxproj -> C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\Cout_Cin.exe
+       Tarefa em execução pronta "Message".
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; (('$(EmbedManifestBy)' != 'LINK' or '$(LegacyManifestEmbedding)' != 'true' or '$(LinkSkippedExecution)' == 'true') and
+                    %(Link.GenerateDebugInformation) == 'DebugFastLink' and %(Link.ProgramDataBaseFileName) != '') foi avaliado como (('LINK' != 'LINK' or '' != 'true' or 'False' == 'true') and
+                    true == 'DebugFastLink' and  != '').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; (('$(EmbedManifestBy)' != 'LINK' or '$(LegacyManifestEmbedding)' != 'true' or '$(LinkSkippedExecution)' == 'true') and
+                    %(Link.GenerateDebugInformation) == 'true' and %(Link.ProgramDataBaseFileName) != '') foi avaliado como (('LINK' != 'LINK' or '' != 'true' or 'False' == 'true') and
+                    true == 'true' and  != '').
+     1>Destino de compilação pronto"Link" no projeto "Cout_Cin.vcxproj".
+       Destino "MetaGenInputsOutputs" ignorado devido à condição falsa; ('$(EnableManagedIncrementalBuild)' == 'True') foi avaliado como ('false' == 'True').
+       Destino "ComputeMetaGenInputs" ignorado devido à condição falsa; ('$(CLRSupport)'!='' and '$(CLRSupport)'!='false' and '$(CLRSupport)'!='NetCore') foi avaliado como ('false'!='' and 'false'!='false' and 'false'!='NetCore').
+       Destino "MetaGen" ignorado devido à condição falsa; ('@(MetaGen)' != '') foi avaliado como ('' != '').
+     1>Destino "AfterLink" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_Link" depende dele):
+     1>Destino de compilação pronto"AfterLink" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_Link" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"_Link" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_ALink" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"_ALink" no projeto "Cout_Cin.vcxproj".
+       Destino "ComputeLegacyManifestEmbedding" ignorado. Compilado anteriormente com êxito.
+     1>Destino "_Manifest" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+       A tarefa "CallTarget" foi ignorada devido a condição falsa; ('$(LegacyManifestEmbedding)' == 'true') foi avaliado como ('' == 'true').
+     1>Destino de compilação pronto"_Manifest" no projeto "Cout_Cin.vcxproj".
+     1>Destino "RegisterOutput" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true') foi avaliado como ('Application'=='DynamicLibrary' and 'false'=='true' and 'false'!='true').
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('$(ConfigurationType)'=='DynamicLibrary' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true') foi avaliado como ('Application'=='DynamicLibrary' and 'false'=='true' and 'false'=='true').
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'!='true') foi avaliado como ('Application'=='Application' and 'false'=='true' and 'false'!='true').
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('$(ConfigurationType)'=='Application' and '%(Link.RegisterOutput)'=='true' and '%(Link.PerUserRedirection)'=='true') foi avaliado como ('Application'=='Application' and 'false'=='true' and 'false'=='true').
+       A tarefa "VCMessage" foi ignorada devido a condição falsa; ('$(_RegisterOutputExitCode)' != '' and '$(_RegisterOutputExitCode)' != '0') foi avaliado como ('' != '' and '' != '0').
+     1>Destino de compilação pronto"RegisterOutput" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "ResolveReferences" ignorado. Compilado anteriormente com êxito.
+     1>Destino "ResolvedXDCMake" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_XdcMake" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('%(_MSBuildProjectReferenceExistent.Extension)' == '.vcxproj' and '@(ProjectReferenceWithConfiguration)' != '' and '@(_MSBuildProjectReferenceExistent)' != '' and '$(_ClCompileGenerateXMLDocumentationFiles)' == 'true') foi avaliado como ('' == '.vcxproj' and '' != '' and '' != '' and '' == 'true').
+     1>Destino de compilação pronto"ResolvedXDCMake" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeCLCompileGeneratedXDCFiles" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_XdcMake" depende dele):
+     1>Destino de compilação pronto"ComputeCLCompileGeneratedXDCFiles" no projeto "Cout_Cin.vcxproj".
+     1>Destino "MakeDirsForXdcMake" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_XdcMake" depende dele):
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"MakeDirsForXdcMake" no projeto "Cout_Cin.vcxproj".
+       Destino "XdcMake" ignorado devido à condição falsa; ('@(XdcMake)' != '') foi avaliado como ('' != '').
+     1>Destino "_XdcMake" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"_XdcMake" no projeto "Cout_Cin.vcxproj".
+     1>Destino "ComputeCLCompileGeneratedSbrFiles" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BscMake" depende dele):
+     1>Destino de compilação pronto"ComputeCLCompileGeneratedSbrFiles" no projeto "Cout_Cin.vcxproj".
+     1>Destino "MakeDirsForBscMake" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BscMake" depende dele):
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"MakeDirsForBscMake" no projeto "Cout_Cin.vcxproj".
+       Destino "BscMake" ignorado devido à condição falsa; ('@(BscMake)' != '') foi avaliado como ('' != '').
+       Destino "CustomBuildStep" ignorado devido à condição falsa; ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='') foi avaliado como ('' != '' and ''=='').
+     1>Destino "_BscMake" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"_BscMake" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+     1>Destino "BuiltProjectOutputGroup" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CreateRecipeFile" depende dele):
+     1>Destino de compilação pronto"BuiltProjectOutputGroup" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "PrepareResourceNames" ignorado. Compilado anteriormente com êxito.
+     1>Destino "SatelliteDllsProjectOutputGroup" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CreateRecipeFile" depende dele):
+     1>Destino de compilação pronto"SatelliteDllsProjectOutputGroup" no projeto "Cout_Cin.vcxproj".
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "AssignTargetPaths" ignorado. Compilado anteriormente com êxito.
+       Destino "PrepareForBuild" ignorado. Compilado anteriormente com êxito.
+       Destino "AssignTargetPaths" ignorado. Compilado anteriormente com êxito.
+     1>Destino "MakeDirsForFxc" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "ContentFilesProjectOutputGroup" depende dele):
+       Tarefa "MakeDir"
+       Tarefa em execução pronta "MakeDir".
+     1>Destino de compilação pronto"MakeDirsForFxc" no projeto "Cout_Cin.vcxproj".
+       Destino "_CreateCopyFileItems" ignorado devido à condição falsa; ('@(CopyFileToFolders)' != '') foi avaliado como ('' != '').
+     1>Destino "ContentFilesProjectOutputGroup" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CreateRecipeFile" depende dele):
+       A tarefa "AssignTargetPath" foi ignorada devido a condição falsa; ('@(ContentFilesProjectOutputGroupOutputFullPath)' != '' and '%(ContentFilesProjectOutputGroupOutputFullPath.RootFolder)' != '') foi avaliado como ('' != '' and '' != '').
+       A tarefa "AssignTargetPath" foi ignorada devido a condição falsa; ('@(ContentFilesProjectOutputGroupOutputFullPath)' != '' and '%(ContentFilesProjectOutputGroupOutputFullPath.RootFolder)' == '') foi avaliado como ('' != '' and '' == '').
+     1>Destino de compilação pronto"ContentFilesProjectOutputGroup" no projeto "Cout_Cin.vcxproj".
+       Destino "GetReferencedVCProjectsInfo" ignorado. Compilado anteriormente com êxito.
+     1>Destino "CreateRecipeFile" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+       Usando a tarefa "GenerateDesktopDeployRecipe" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "GenerateDesktopDeployRecipe"
+       Tarefa em execução pronta "GenerateDesktopDeployRecipe".
+     1>Destino de compilação pronto"CreateRecipeFile" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_GenerateSatelliteAssemblyInputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CreateSatelliteAssemblies" depende dele):
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(ManifestResourceWithCulture)'!='' and '%(ManifestResourceWithCulture.EmittedForCompatibilityOnly)'=='') foi avaliado como (''!='' and ''=='').
+       A tarefa "Warning" foi ignorada devido a condição falsa; ('@(ManifestNonResxWithCultureOnDisk)'!='' and '%(ManifestNonResxWithCultureOnDisk.EmittedForCompatibilityOnly)'=='') foi avaliado como (''!='' and ''=='').
+     1>Destino de compilação pronto"_GenerateSatelliteAssemblyInputs" no projeto "Cout_Cin.vcxproj".
+       Destino "ComputeIntermediateSatelliteAssemblies" ignorado devido à condição falsa; (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '') foi avaliado como ( != '').
+       Destino "GenerateSatelliteAssemblies" ignorado devido à condição falsa; ('@(_SatelliteAssemblyResourceInputs)' != '') foi avaliado como ('' != '').
+     1>Destino "CreateSatelliteAssemblies" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"CreateSatelliteAssemblies" no projeto "Cout_Cin.vcxproj".
+       Destino "CopyLocalNativeReference" ignorado devido à condição falsa; ('$(CopyLocalProjectReference)' == 'true') foi avaliado como ('false' == 'true').
+     1>Destino "_Appverifier" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"_Appverifier" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_Deploy" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"_Deploy" no projeto "Cout_Cin.vcxproj".
+       Destino "ComputeIntermediateSatelliteAssemblies" ignorado devido à condição falsa; (@(ReferenceSatellitePaths->'%(DestinationSubDirectory)') != '') foi avaliado como ( != '').
+       Destino "_CopyFilesMarkedCopyLocal" ignorado devido à condição falsa; ('@(ReferenceCopyLocalPaths)' != '') foi avaliado como ('' != '').
+       Destino "AssignTargetPaths" ignorado. Compilado anteriormente com êxito.
+       Destino "AssignProjectConfiguration" ignorado. Compilado anteriormente com êxito.
+       Destino "_SplitProjectReferencesByFileExistence" ignorado. Compilado anteriormente com êxito.
+       Destino "_GetProjectReferenceTargetFrameworkProperties" ignorado. Compilado anteriormente com êxito.
+     1>Destino "_PopulateCommonStateForGetCopyToOutputDirectoryItems" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "GetCopyToOutputDirectoryItems" depende dele):
+     1>Destino de compilação pronto"_PopulateCommonStateForGetCopyToOutputDirectoryItems" no projeto "Cout_Cin.vcxproj".
+     1>Destino "GetCopyToOutputDirectoryXamlAppDefs" no arquivo "C:\Windows\Microsoft.NET\Framework\v4.0.30319\Microsoft.Xaml.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "GetCopyToOutputDirectoryItems" depende dele):
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+     1>Destino de compilação pronto"GetCopyToOutputDirectoryXamlAppDefs" no projeto "Cout_Cin.vcxproj".
+     1>Destino "GetCopyToOutputDirectoryItems" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_CopySourceItemsToOutputDirectory" depende dele):
+       Usando a tarefa "CallTarget" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "CallTarget"
+       Destino "_PopulateCommonStateForGetCopyToOutputDirectoryItems" ignorado. Compilado anteriormente com êxito.
+       Destino "_AddOutputPathToGlobalPropertiesToRemove" ignorado. Compilado anteriormente com êxito.
+     1>Destino "_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "GetCopyToOutputDirectoryItems" depende dele):
+       A tarefa "MSBuild" foi ignorada devido a condição falsa; ('@(_MSBuildProjectReferenceExistent)' != '' and '$(_GetChildProjectCopyToOutputDirectoryItems)' == 'true' and '%(_MSBuildProjectReferenceExistent.Private)' != 'false' and '$(UseCommonOutputDirectory)' != 'true') foi avaliado como ('' != '' and 'true' == 'true' and '' != 'false' and 'false' != 'true').
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+     1>Destino de compilação pronto"_GetCopyToOutputDirectoryItemsFromTransitiveProjectReferences" no projeto "Cout_Cin.vcxproj".
+       Tarefa em execução pronta "CallTarget".
+       Tarefa "CallTarget"
+       Destino "AssignTargetPaths" ignorado. Compilado anteriormente com êxito.
+       Destino "_PopulateCommonStateForGetCopyToOutputDirectoryItems" ignorado. Compilado anteriormente com êxito.
+     1>Destino "_GetCopyToOutputDirectoryItemsFromThisProject" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "GetCopyToOutputDirectoryItems" depende dele):
+       Tarefa "AssignTargetPath"
+       Tarefa em execução pronta "AssignTargetPath".
+     1>Destino de compilação pronto"_GetCopyToOutputDirectoryItemsFromThisProject" no projeto "Cout_Cin.vcxproj".
+       Tarefa em execução pronta "CallTarget".
+     1>Destino de compilação pronto"GetCopyToOutputDirectoryItems" no projeto "Cout_Cin.vcxproj".
+       Destino "_CopyOutOfDateSourceItemsToOutputDirectory" ignorado devido à condição falsa; ( '@(_SourceItemsToCopyToOutputDirectory)' != '' ) foi avaliado como ( '' != '' ).
+       Destino "_CopyOutOfDateSourceItemsToOutputDirectoryAlways" ignorado devido à condição falsa; ( '@(_SourceItemsToCopyToOutputDirectoryAlways)' != '' ) foi avaliado como ( '' != '' ).
+     1>Destino "_CopySourceItemsToOutputDirectory" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CopyFilesToOutputDirectory" depende dele):
+     1>Destino de compilação pronto"_CopySourceItemsToOutputDirectory" no projeto "Cout_Cin.vcxproj".
+       Destino "_CopyAppConfigFile" ignorado devido à condição falsa; ( '@(AppConfigWithTargetPath)' != '' ) foi avaliado como ( '' != '' ).
+       Destino "_CopyManifestFiles" ignorado devido à condição falsa; ( '$(_DeploymentCopyApplicationManifest)'=='true' or '$(GenerateClickOnceManifests)'=='true' ) foi avaliado como ( ''=='true' or ''=='true' ).
+     1>Destino "_CheckForCompileOutputs" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "CopyFilesToOutputDirectory" depende dele):
+     1>Destino de compilação pronto"_CheckForCompileOutputs" no projeto "Cout_Cin.vcxproj".
+       Destino "_SGenCheckForOutputs" ignorado devido à condição falsa; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')) foi avaliado como ('Off' == 'On' or (''!='' and 'Off' == 'Auto')).
+     1>Destino "CopyFilesToOutputDirectory" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "PrepareForRun" depende dele):
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true') foi avaliado como ('true' == 'true' and 'true' != 'true').
+       A tarefa "CopyRefAssembly" foi ignorada devido a condição falsa; ('$(ProduceReferenceAssembly)' == 'true' and '$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)' != 'true') foi avaliado como ('false' == 'true' and 'true' == 'true' and 'true' != 'true').
+       A tarefa "Message" foi ignorada devido a condição falsa; ('$(CopyBuildOutputToOutputDirectory)' == 'true' and '$(SkipCopyBuildProduct)'!='true') foi avaliado como ('true' == 'true' and 'true'!='true').
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('@(AddModules)' != '') foi avaliado como ('' != '').
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('$(_SGenDllCreated)'=='true') foi avaliado como ('false'=='true').
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('$(_DebugSymbolsProduced)'=='true' and '$(SkipCopyingSymbolsToOutputDirectory)' != 'true' and '$(CopyOutputSymbolsToOutputDirectory)'=='true') foi avaliado como ('false'=='true' and '' != 'true' and 'true'=='true').
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('$(_DocumentationFileProduced)'=='true' and '$(CopyDocumentationFileToOutputDirectory)'=='true') foi avaliado como ('false'=='true' and 'true'=='true').
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('@(IntermediateSatelliteAssembliesWithTargetPath)' != '') foi avaliado como ('' != '').
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('@(ReferenceComWrappersToCopyLocal)' != '' or '@(ResolvedIsolatedComModules)' != '' or '@(_DeploymentLooseManifestFile)' != '' or '@(NativeReferenceFile)' != '' ) foi avaliado como ('' != '' or '' != '' or '' != '' or '' != '' ).
+       A tarefa "Copy" foi ignorada devido a condição falsa; ('$(SkipCopyWinMDArtifact)' != 'true' and '@(WinMDExpArtifacts)' != '') foi avaliado como ('' != 'true' and '' != '').
+       A tarefa "Message" foi ignorada devido a condição falsa; ('$(SkipCopyWinMDArtifact)' != 'true' and '$(_WindowsMetadataOutputPath)' != '') foi avaliado como ('' != 'true' and '' != '').
+     1>Destino de compilação pronto"CopyFilesToOutputDirectory" no projeto "Cout_Cin.vcxproj".
+     1>Destino "PrepareForRun" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+     1>Destino de compilação pronto"PrepareForRun" no projeto "Cout_Cin.vcxproj".
+       Destino "CustomBuildStep" ignorado devido à condição falsa; ('@(CustomBuildStep)' != '' and '$(SelectedFiles)'=='') foi avaliado como ('' != '' and ''=='').
+     1>Destino "PostBuildEvent" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppCommon.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "_BuildLinkAction" depende dele):
+       A tarefa "Message" foi ignorada devido a condição falsa; ('%(PostBuildEvent.Message)' != '' and '%(PostBuildEvent.Command)' != '') foi avaliado como ('' != '' and '' != '').
+       A tarefa "Exec" foi ignorada devido a condição falsa; ('%(PostBuildEvent.Command)' != '') foi avaliado como ('' != '').
+     1>Destino de compilação pronto"PostBuildEvent" no projeto "Cout_Cin.vcxproj".
+     1>Destino "_BuildLinkAction" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "BuildLink" depende dele):
+     1>Destino de compilação pronto"_BuildLinkAction" no projeto "Cout_Cin.vcxproj".
+     1>Destino "BuildLink" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+     1>Destino de compilação pronto"BuildLink" no projeto "Cout_Cin.vcxproj".
+     1>Destino "AfterBuild" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+     1>Destino de compilação pronto"AfterBuild" no projeto "Cout_Cin.vcxproj".
+       Destino "_CheckForCompileOutputs" ignorado. Compilado anteriormente com êxito.
+       Destino "_SGenCheckForOutputs" ignorado devido à condição falsa; ('$(_SGenGenerateSerializationAssembliesConfig)' == 'On' or ('@(WebReferenceUrl)'!='' and '$(_SGenGenerateSerializationAssembliesConfig)' == 'Auto')) foi avaliado como ('Off' == 'On' or (''!='' and 'Off' == 'Auto')).
+     1>Destino "_CleanGetCurrentAndPriorFileWrites" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "IncrementalClean" depende dele):
+       Tarefa "ReadLinesFromFile"
+       Tarefa em execução pronta "ReadLinesFromFile".
+       Usando a tarefa "ConvertToAbsolutePath" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "ConvertToAbsolutePath"
+       Tarefa em execução pronta "ConvertToAbsolutePath".
+       Usando a tarefa "FindUnderPath" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "FindUnderPath"
+         O caminho de comparação é "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin".
+       Tarefa em execução pronta "FindUnderPath".
+       Tarefa "FindUnderPath"
+         O caminho de comparação é "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\".
+       Tarefa em execução pronta "FindUnderPath".
+       Tarefa "FindUnderPath"
+         O caminho de comparação é "x64\Debug\".
+       Tarefa em execução pronta "FindUnderPath".
+       Usando a tarefa "RemoveDuplicates" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "RemoveDuplicates"
+       Tarefa em execução pronta "RemoveDuplicates".
+     1>Destino de compilação pronto"_CleanGetCurrentAndPriorFileWrites" no projeto "Cout_Cin.vcxproj".
+     1>Destino "IncrementalClean" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Current\Bin\amd64\Microsoft.Common.CurrentVersion.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+       Tarefa "FindUnderPath"
+         O caminho de comparação é "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\x64\Debug\".
+       Tarefa em execução pronta "FindUnderPath".
+       Tarefa "FindUnderPath"
+         O caminho de comparação é "x64\Debug\".
+       Tarefa em execução pronta "FindUnderPath".
+       Usando a tarefa "Delete" do assembly "Microsoft.Build.Tasks.Core, Version=15.1.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a".
+       Tarefa "Delete"
+       Tarefa em execução pronta "Delete".
+       Tarefa "RemoveDuplicates"
+       Tarefa em execução pronta "RemoveDuplicates".
+       A tarefa "WriteLinesToFile" foi ignorada devido a condição falsa; ('@(_CleanUnfilteredPriorFileWrites)'!='@(_CleanUniqueRemainingFileWritesAfterIncrementalClean)') foi avaliado como (''!='').
+     1>Destino de compilação pronto"IncrementalClean" no projeto "Cout_Cin.vcxproj".
+     1>Destino "TlogCleanup" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+       Usando a tarefa "CleanupStaleTlogItems" do assembly "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.Build.CppTasks.Common.dll".
+       Tarefa "CleanupStaleTlogItems"
+       Tarefa em execução pronta "CleanupStaleTlogItems".
+     1>Destino de compilação pronto"TlogCleanup" no projeto "Cout_Cin.vcxproj".
+     1>Destino "FinalizeBuildStatus" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.CppBuild.targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (o destino "Build" depende dele):
+       Tarefa "Delete"
+         Excluindo o arquivo "x64\Debug\Cout_Cin.tlog\unsuccessfulbuild".
+       Tarefa em execução pronta "Delete".
+       Tarefa "Touch"
+         Tocando "x64\Debug\Cout_Cin.tlog\Cout_Cin.lastbuildstate".
+       Tarefa em execução pronta "Touch".
+     1>Destino de compilação pronto"FinalizeBuildStatus" no projeto "Cout_Cin.vcxproj".
+       Destino "_CheckForInvalidConfigurationAndPlatform" ignorado. Compilado anteriormente com êxito.
+       Destino "_CheckForInvalidConfigurationAndPlatform" ignorado. Compilado anteriormente com êxito.
+     1>Destino "Build" no arquivo "C:\Program Files\Microsoft Visual Studio\2022\Community\MSBuild\Microsoft\VC\v170\Microsoft.BuildSteps.Targets" do projeto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (ponto de entrada):
+     1>Destino de compilação pronto"Build" no projeto "Cout_Cin.vcxproj".
+     1>Projeto de compilação pronto "C:\Users\Usuario\source\repos\FOTOGRAFIA_COMPUTACIONAL_2024_Impact_Lab\Aula_01\Cout_Cin\Cout_Cin\Cout_Cin.vcxproj" (Build destino(s)).
+
+Compilação com êxito.
+    0 Aviso(s)
+    0 Erro(s)
+
+Tempo Decorrido 00:00:01.01
